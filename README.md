@@ -1,4 +1,5 @@
 Traffic Light Signal Simulation using MATLAB M-Scripting, Simulink API, and Stateflow
+
 Developed a fully automated Traffic Light Control System using MATLAB M-scripting, Simulink API, and Stateflow, showcasing proficiency in programmatic model creation and simulation control.
 
 Programmatically built a Stateflow chart with parent-child state hierarchy, incorporating entry, during, and exit actions to represent traffic light sequencing.
