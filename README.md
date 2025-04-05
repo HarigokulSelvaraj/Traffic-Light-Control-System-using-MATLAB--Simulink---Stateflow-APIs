@@ -1,15 +1,16 @@
 Traffic Light Signal Simulation using MATLAB M-Scripting, Simulink API, and Stateflow
 
-Developed a fully automated Traffic Light Control System using MATLAB M-scripting, Simulink API, and Stateflow, showcasing proficiency in programmatic model creation and simulation control.
+●	Designed and implemented a Traffic Light Signal Control System using Stateflow, MATLAB M-scripting, and Simulink API, demonstrating programmatic model generation and dynamic state transition control.
 
-Programmatically built a Stateflow chart with parent-child state hierarchy, incorporating entry, during, and exit actions to represent traffic light sequencing.
+●	Created and configured the Stateflow chart programmatically with parent and child states, entry/during actions, and conditional transitions to emulate traffic light logic.
 
-Implemented guarded transitions ([x >= 10], [x <= 0]) and configured default transitions using Stateflow APIs to emulate logical flow of real-world signal systems.
+●	Defined transitions using logical guard conditions ([x >= 10], [x <= 0]) and set default transitions for initial state activation through APIs.
 
-Utilized Stateflow Data API for variable declaration and signal management, enabling dynamic behavior of control logic during runtime.
+●	Utilized Stateflow Data API to declare and manage variables (e.g., x) and control signal behavior during simulation.
 
-Automated the creation and connection of Simulink blocks (e.g., Scope), and managed layout using Simulink diagram arrangement functions.
+●	Automated Simulink model creation, block addition (Scope), line connections, and layout arrangement using Simulink API functions.
 
-Scripted simulation parameters such as fixed-step solver, step size, and simulation time, achieving a fully script-driven and reproducible model setup.
+●	Set up simulation parameters like solver type, step size, and simulation time through scripting, achieving full automation of the model setup.
 
-Gained practical expertise in state machine development, embedded system logic, and model-based design (MBD) for automotive and industrial control systems.
+●	Acquired strong expertise in state machine modeling, embedded logic control, and Simulink-Stateflow integration aligned with automotive software development workflows.
+
